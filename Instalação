@@ -1,0 +1,9 @@
+# Debian/Ubuntu
+sudo apt-get install medusa
+
+# Compilar from source
+git clone https://github.com/jmk-foofus/medusa
+cd medusa
+./configure
+make
+sudo make install
