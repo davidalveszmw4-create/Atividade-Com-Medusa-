@@ -1,0 +1,1 @@
+medusa -h target.com -U users.txt -P passwords.txt -M ftp
