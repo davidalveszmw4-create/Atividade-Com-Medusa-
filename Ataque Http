@@ -1,0 +1,1 @@
+medusa -h website.com -U users.txt -P passwords.txt -M http -m DIR:/admin
