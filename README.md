@@ -8,8 +8,7 @@ Projeto acadêmico para estudo e análise de ataques de força bruta utilizando 
 - [ ] Implementar e configurar a ferramenta Medusa
 - [ ] Realizar testes controlados em ambiente seguro
 - [ ] Analisar resultados e medidas de proteção
-
-## 🛠 Instalação
+ Instalação
 
 ```bash
 git clone https://github.com/seu-usuario/medusa-brute-force-project
